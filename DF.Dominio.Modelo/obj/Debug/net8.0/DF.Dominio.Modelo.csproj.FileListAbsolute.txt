@@ -1,0 +1,11 @@
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\bin\Debug\net8.0\DF.Dominio.Modelo.deps.json
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\bin\Debug\net8.0\DF.Dominio.Modelo.dll
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\bin\Debug\net8.0\DF.Dominio.Modelo.pdb
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\DF.Dominio.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\DF.Dominio.Modelo.AssemblyInfoInputs.cache
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\DF.Dominio.Modelo.AssemblyInfo.cs
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\DF.Dominio.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\DF.Dominio.Modelo.dll
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\refint\DF.Dominio.Modelo.dll
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\DF.Dominio.Modelo.pdb
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\DF.Dominio.Modelo\obj\Debug\net8.0\ref\DF.Dominio.Modelo.dll

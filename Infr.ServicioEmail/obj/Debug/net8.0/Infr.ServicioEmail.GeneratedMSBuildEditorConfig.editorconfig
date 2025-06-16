@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Infr.ServicioEmail
+build_property.ProjectDir = C:\Users\diegi\OneDrive\Documentos\UNIVERSIDAD ISRAEL\MOMENTO 2\DESARROLLO DE SOFTWARE 1\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Infr.ServicioEmail\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

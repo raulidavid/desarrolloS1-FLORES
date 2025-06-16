@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9F075A-1BD4-4AEC-9214-68F4C1038781}|Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.infrestructura.accesodatos\\models\\dulceriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9F075A-1BD4-4AEC-9214-68F4C1038781}|Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj|solutionrelative:embutidos.infrestructura.accesodatos\\models\\dulceriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\embutidos.ui.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\embutidos.ui.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\embutidos.ui.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\embutidos.ui.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.ui.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36F34A-236A-466F-A00A-1A79C9E7074F}|Embutidos.ui.api\\Embutidos.ui.api.csproj|solutionrelative:embutidos.ui.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9F075A-1BD4-4AEC-9214-68F4C1038781}|Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.infrestructura.accesodatos\\embutidos.infrestructura.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E9F075A-1BD4-4AEC-9214-68F4C1038781}|Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj|solutionrelative:embutidos.infrestructura.accesodatos\\embutidos.infrestructura.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0B2F9F-3331-4FA1-B90F-54481AA8341B}|EmbutidosAplicacion\\EmbutidosAplicacion.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidosaplicacion\\embutidosaplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C0B2F9F-3331-4FA1-B90F-54481AA8341B}|EmbutidosAplicacion\\EmbutidosAplicacion.csproj|solutionrelative:embutidosaplicacion\\embutidosaplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807EDD36-C43B-469B-A18C-0E528A7C10E0}|Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.dominio.modelo\\embutidos.dominio.modelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{807EDD36-C43B-469B-A18C-0E528A7C10E0}|Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj|solutionrelative:embutidos.dominio.modelo\\embutidos.dominio.modelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8621ED-B769-4F35-BCBB-6E1B9EABDEC5}|Embutidos.Infrestructura.ServiciosExternos\\Embutidos.Infrestructura.ServiciosExternos.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.infrestructura.serviciosexternos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8621ED-B769-4F35-BCBB-6E1B9EABDEC5}|Embutidos.Infrestructura.ServiciosExternos\\Embutidos.Infrestructura.ServiciosExternos.csproj|solutionrelative:embutidos.infrestructura.serviciosexternos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3FB7C0-4AF1-4602-9F8F-4382294E75AA}|Embutidos.Infrestructura.ServiceMail\\Embutidos.Infrestructura.ServiceMail.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.infrestructura.servicemail\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3FB7C0-4AF1-4602-9F8F-4382294E75AA}|Embutidos.Infrestructura.ServiceMail\\Embutidos.Infrestructura.ServiceMail.csproj|solutionrelative:embutidos.infrestructura.servicemail\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9F075A-1BD4-4AEC-9214-68F4C1038781}|Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.infrestructura.accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9F075A-1BD4-4AEC-9214-68F4C1038781}|Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj|solutionrelative:embutidos.infrestructura.accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE4C98E-942B-4E28-A31B-817C687E8D66}|Embutidos.Infrestructura.CrossCuting\\Embutidos.Infrestructura.CrossCuting.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.infrestructura.crosscuting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE4C98E-942B-4E28-A31B-817C687E8D66}|Embutidos.Infrestructura.CrossCuting\\Embutidos.Infrestructura.CrossCuting.csproj|solutionrelative:embutidos.infrestructura.crosscuting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4C4DE9-1F9F-4763-A77D-06FEE94B465A}|Embutidos.Dominio.Servicios\\Embutidos.Dominio.Servicios.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.dominio.servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4C4DE9-1F9F-4763-A77D-06FEE94B465A}|Embutidos.Dominio.Servicios\\Embutidos.Dominio.Servicios.csproj|solutionrelative:embutidos.dominio.servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807EDD36-C43B-469B-A18C-0E528A7C10E0}|Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidos.dominio.modelo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807EDD36-C43B-469B-A18C-0E528A7C10E0}|Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj|solutionrelative:embutidos.dominio.modelo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0FCF8D-EDA5-40BA-941C-6D2ED0373243}|EmbutidosAplicacion.DTO\\EmbutidosAplicacion.DTO.csproj|c:\\users\\rauli\\downloads\\embutidosapim\\embutidosapim\\embutidosaplicacion.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0FCF8D-EDA5-40BA-941C-6D2ED0373243}|EmbutidosAplicacion.DTO\\EmbutidosAplicacion.DTO.csproj|solutionrelative:embutidosaplicacion.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DulceriaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.AccesoDatos\\Models\\DulceriaDbContext.cs",
+              "RelativeDocumentMoniker": "Embutidos.Infrestructura.AccesoDatos\\Models\\DulceriaDbContext.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.AccesoDatos\\Models\\DulceriaDbContext.cs",
+              "RelativeToolTip": "Embutidos.Infrestructura.AccesoDatos\\Models\\DulceriaDbContext.cs",
+              "ViewState": "AgIAABsAAAAAMzMzM/M1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:34:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\appsettings.Development.json",
+              "RelativeToolTip": "Embutidos.ui.api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T01:09:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Embutidos.ui.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:09:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\WeatherForecast.cs",
+              "RelativeToolTip": "Embutidos.ui.api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:09:20.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Program.cs",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\Program.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Program.cs",
+              "RelativeToolTip": "Embutidos.ui.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:09:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Embutidos.ui.api.http",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Embutidos.ui.api.http",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\Embutidos.ui.api.http",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Embutidos.ui.api.http",
+              "RelativeToolTip": "Embutidos.ui.api\\Embutidos.ui.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-16T01:09:15.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\appsettings.json",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\appsettings.json",
+              "RelativeToolTip": "Embutidos.ui.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T01:09:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Embutidos.Infrestructura.AccesoDatos.csproj",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj",
+              "RelativeToolTip": "Embutidos.Infrestructura.AccesoDatos\\Embutidos.Infrestructura.AccesoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T02:46:48.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmbutidosAplicacion.csproj",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\EmbutidosAplicacion\\EmbutidosAplicacion.csproj",
+              "RelativeDocumentMoniker": "EmbutidosAplicacion\\EmbutidosAplicacion.csproj",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\EmbutidosAplicacion\\EmbutidosAplicacion.csproj",
+              "RelativeToolTip": "EmbutidosAplicacion\\EmbutidosAplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T02:44:13.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Embutidos.ui.api.csproj",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Embutidos.ui.api.csproj",
+              "RelativeDocumentMoniker": "Embutidos.ui.api\\Embutidos.ui.api.csproj",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.ui.api\\Embutidos.ui.api.csproj",
+              "RelativeToolTip": "Embutidos.ui.api\\Embutidos.ui.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T02:55:38.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Embutidos.Dominio.Modelo.csproj",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj",
+              "RelativeDocumentMoniker": "Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj",
+              "RelativeToolTip": "Embutidos.Dominio.Modelo\\Embutidos.Dominio.Modelo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T02:45:11.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.ServiciosExternos\\Class1.cs",
+              "RelativeDocumentMoniker": "Embutidos.Infrestructura.ServiciosExternos\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.ServiciosExternos\\Class1.cs",
+              "RelativeToolTip": "Embutidos.Infrestructura.ServiciosExternos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:41:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.ServiceMail\\Class1.cs",
+              "RelativeDocumentMoniker": "Embutidos.Infrestructura.ServiceMail\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.ServiceMail\\Class1.cs",
+              "RelativeToolTip": "Embutidos.Infrestructura.ServiceMail\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:40:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.AccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "Embutidos.Infrestructura.AccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.AccesoDatos\\Class1.cs",
+              "RelativeToolTip": "Embutidos.Infrestructura.AccesoDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:40:09.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.CrossCuting\\Class1.cs",
+              "RelativeDocumentMoniker": "Embutidos.Infrestructura.CrossCuting\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Infrestructura.CrossCuting\\Class1.cs",
+              "RelativeToolTip": "Embutidos.Infrestructura.CrossCuting\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:39:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Dominio.Servicios\\Class1.cs",
+              "RelativeDocumentMoniker": "Embutidos.Dominio.Servicios\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Dominio.Servicios\\Class1.cs",
+              "RelativeToolTip": "Embutidos.Dominio.Servicios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:37:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Dominio.Modelo\\Class1.cs",
+              "RelativeDocumentMoniker": "Embutidos.Dominio.Modelo\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\Embutidos.Dominio.Modelo\\Class1.cs",
+              "RelativeToolTip": "Embutidos.Dominio.Modelo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:36:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\EmbutidosAplicacion.DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "EmbutidosAplicacion.DTO\\Class1.cs",
+              "ToolTip": "C:\\Users\\rauli\\Downloads\\embutidosApim\\embutidosApim\\EmbutidosAplicacion.DTO\\Class1.cs",
+              "RelativeToolTip": "EmbutidosAplicacion.DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:35:30.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

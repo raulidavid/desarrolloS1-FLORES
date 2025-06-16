@@ -1,0 +1,11 @@
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\bin\Debug\net8.0\Dominio.Servicio.deps.json
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\bin\Debug\net8.0\Dominio.Servicio.dll
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\bin\Debug\net8.0\Dominio.Servicio.pdb
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.AssemblyInfoInputs.cache
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.AssemblyInfo.cs
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.dll
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\refint\Dominio.Servicio.dll
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.pdb
+C:\Users\rauli\Downloads\PROYECTO_DEBER_DESARROLLO SOFTWARE1\ProyectoA\APIDulceFacil\Dominio.Servicio\obj\Debug\net8.0\ref\Dominio.Servicio.dll
